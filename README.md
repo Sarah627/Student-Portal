@@ -10,4 +10,5 @@ This project presents an improved solution for my college’s student portal, wh
     - The technology stack used for front-end
     - The technology stack used for back-end
     - testing
+    - deployment on netfly
 
