@@ -7,4 +7,6 @@ This project presents an improved solution for my college’s student portal, wh
     - Features
     - Modeling of the system
     - Database Schema
+    - The technology stack used for front-end
+    - The technology stack used for back-end
 
