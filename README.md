@@ -6,4 +6,5 @@ This project presents an improved solution for my college’s student portal, wh
 # Table Of Contents
     - Features
     - Modeling of the system
+    - Database Schema
 
