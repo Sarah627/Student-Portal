@@ -9,4 +9,5 @@ This project presents an improved solution for my college’s student portal, wh
     - Database Schema
     - The technology stack used for front-end
     - The technology stack used for back-end
+    - testing
 
